@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ProfLiliaB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ProfLiliaB/ProfLiliaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+— 👋 Oi, sou @ProfLiliaB
+- 👀 Este espaço é para armazenar arquivos das aulas de HTML, CSS e Javascript
+- 🌱 Atualmente sou professora do Centro Paula Souza (Etec) e do Senac
+- 💞️ Fique a vontade para usar os arquivos, espero que ajude em seu aprendizado
+- 📫 lilia.bsilveira@sp.senac.br | liliapds@gmail.com
+- 😄 Professora de Informática para Internet
+- ⚡ Amo muito programar!
+✨ Profº Lilia ✨
