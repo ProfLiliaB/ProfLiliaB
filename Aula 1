@@ -1,0 +1,47 @@
+https://www.w3schools.com/tags/default.asp
+
+Tags Textuais:
+<h1> a <h6>
+<u>
+<s> 
+<b> - Texto em negrito
+<strong> - Texto importante
+<i> - Texto em itálico
+<em> - Texto enfatizado
+<mark> - Texto marcado
+<small> - Texto menor
+<del> - Texto excluído
+<ins> - Texto inserido
+<sub> - Texto subscrito
+<sup> - Texto sobrescrito
+
+<blockquote>Este texto será exibido com uma margem à esquerda</blockquote>
+<address>Rua dos Bobos Nº 000<br>Ubatuba/SP</address>
+<q>O que você faz hoje reflete diretamento no que você será amanhã <cite>Profª Lilia</cite></q>
+<abbr title="Hypertex Markup Language">HTML </abbr>
+<bdo dir="rtl">Este texto será exibido de forma invertida</bdo>
+
+<p> <br> <hr>
+<pre> <code>
+
+ATRIBUTOS
+<img src="img_girl.jpg" width="500" height="600">
+<a href="">
+----------------------------
+Listas
+<ul> <li> <ol> <li> <dl> <dt> <dd> <dd> </dt> </dl>
+
+-----------------------
+HEAD
+metadados
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<title>
+<link>
+<link rel="stylesheet" href="styles.css"> 
+<link rel="icon" href="gota_agua.jpg">
