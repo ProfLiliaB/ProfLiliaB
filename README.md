@@ -1,4 +1,4 @@
-Olá, mundo! 🌎✨
+# Olá, mundo! 🌎✨
 Sou professora no SENAC e apaixonada por tecnologia e programação Web!
 Amo compartilhar conhecimento e inspirar pessoas a entrarem no mundo do desenvolvimento!
 Gosto de transformar café em código, bugs em aprendizado e desafios em diversão. Meu lema é: sempre dá pra automatizar!
