@@ -10,11 +10,11 @@ Skills que me acompanham na jornada:
 Se você também ama tecnologia, bora trocar ideia, criar projetos malucos ou só conversar sobre programação! 🚀😄
 
 — 👋 sou @ProfLiliaB
-- 👀 Este espaço é para armazenar arquivos das aulas de HTML, CSS, Javascript, entre outras.
+- 📢 Este espaço é para armazenar arquivos das aulas de HTML, CSS, Javascript, entre outras.
 - 🌱 Atualmente sou professora na Etec e na Fatec.
 - 💞️ Fique a vontade para usar os arquivos, espero que ajude em seu aprendizado
 - 📫 liliapds@gmail.com
-- 😄 Professora de Informática para Internet
-- ⚡ Amo muito programar!
+- 👩‍🏫 Professora de Informática para Internet
+- 👩‍💻 Amo muito programar!
 
 ✨ Profº Lilia ✨
