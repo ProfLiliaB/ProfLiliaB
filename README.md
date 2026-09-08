@@ -1,20 +1,19 @@
 # Olá, mundo! 🌎
-Sou professora na Etec/Fatec (Centro Paula Souza), programadora e apaixonada por tecnologia e principalmente programação Web!
+Sou dev e professora no Centro Paula Souza, apaixonada por tecnologia e principalmente programação backend!
 Amo compartilhar conhecimento e inspirar pessoas a entrarem no mundo do desenvolvimento!
-Gosto de transformar café em código, bugs em aprendizado e desafios em diversão.
+Gosto de transformar café em código, bugs em aprendizado e desafios em diversão (nada de formalidade).
 
-Skills que me acompanham na jornada:
-💻 PHP, Node.js, MySQL, HTML/CSS/JavaScript, Git e Flutter
-🚀 Conhecimento: React, React Native, Firebase, MongoDB
+Tecnologias que uso em meu dia a dia:
+💻 PHP, Node.js, MySQL, postgresql, Firebase, MongoDB, Flutter, HTML/CSS/JavaScript e Git, e um pouco de React e React Native.
 
-Se você também ama tecnologia, bora trocar ideia, criar projetos malucos ou só conversar sobre programação! 🚀😄
+Se você também ama tecnologia, bora trocar ideia, criar/compartilhar projetos ou só conversar sobre programação!
 
 — 👋 sou @ProfLiliaB
-- 📢 Este espaço é para armazenar arquivos das aulas de HTML, CSS, Javascript, entre outras.
-- 🌱 Atualmente sou professora na Etec e na Fatec.
-- 💞️ Fique a vontade para usar os arquivos, espero que ajude em seu aprendizado
+- 📢 Este espaço é, principalemte, para armazenar arquivos das aulas.
+- 🌱 Atualmente leciono na Etec e Fatec.
+- 💞️ Fique a vontade para usar os arquivos, espero que ajude em seu aprendizado.
 - 📫 liliapds@gmail.com
-- 👩‍🏫 Professora de Informática para Internet
+- 👩‍🏫 Desenvolvedora e Professora
 - 👩‍💻 Amo muito programar!
 
 ✨ Profº Lilia ✨
