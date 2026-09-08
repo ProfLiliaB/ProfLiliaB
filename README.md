@@ -4,7 +4,7 @@ Amo compartilhar conhecimento e inspirar pessoas a entrarem no mundo do desenvol
 Gosto de transformar café em código, bugs em aprendizado e desafios em diversão (nada de formalidade).
 
 Tecnologias que uso em meu dia a dia:
-💻 PHP, Node.js, MySQL, postgresql, Firebase, MongoDB, Flutter, HTML/CSS/JavaScript e Git, e um pouco de React e React Native.
+💻 PHP, Node.js, MySQL, postgresql, Firebase, MongoDB, Flutter, HTML/CSS/JavaScript, Git, e um pouco de React e React Native.
 
 Se você também ama tecnologia, bora trocar ideia, criar/compartilhar projetos ou só conversar sobre programação!
 
